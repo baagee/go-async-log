@@ -3,7 +3,7 @@
 ## Install
 
 ```sh
-go get -u github.com/ibbd-dev/go-async-log
+go get -u github.com/baagee/go-async-log
 ```
 
 ## 实现的功能及说明
